@@ -50,6 +50,9 @@
     line-height: 50px;
 }
 
+
+/* cart */
+
 .boxcenter {
     width: 980px;
     margin: 0 auto;
@@ -119,6 +122,10 @@ a {
     color: yellow;
     height: 40px;
     line-height: 60px;
+}
+
+.box {
+    height: 60px;
 }
 
 .footer {

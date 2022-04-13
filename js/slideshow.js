@@ -4,7 +4,7 @@ var curInd = 0;
 function loadAnh() {
     for (let i = 0; i < 15; i++) {
         anhArr[i] = new Image();
-        anhArr[i].src = "../images/hoa" + (i + 1) + ".jpg";
+        anhArr[i].src = "/../images/hoa" + (i + 1) + ".jpg";
     }
     document.getElementById("back").style.display = "none";
 }
